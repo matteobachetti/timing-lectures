@@ -1,5 +1,7 @@
 # Timing lectures #
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/matteobachetti/timing-lectures)
+
 This is a work-in-progress repository of my [timing lectures](http://www.matteobachetti.it/Varie/Timing).
 
 Lectures follow an iPython notebook where I give the relevant "vocabulary" and I explain the concepts by simulating and analyzing data. This iPython notebook can be downloaded and students can play around with it, inspecting, modifying and re-running all the code in order to get a better grip on the concepts explained in the lectures.
