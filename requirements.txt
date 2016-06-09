@@ -1,1 +1,2 @@
 maltpynt>=2.0b0
+PyAstronomy
